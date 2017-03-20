@@ -1062,6 +1062,7 @@ public:
     static const char VINTAGE_MODE_WARM[];
     static const char SCENE_MODE_DAWN[];
     static const char SCENE_MODE_DUSKDAWN[];
+    static const char SCENE_MODE_OFF[];
     static const char SCENE_MODE_FALL[];
     static const char SCENE_MODE_FALL_COLOR[];
     static const char SCENE_MODE_TEXT[];
